@@ -1,0 +1,9 @@
+[project]
+name = "pytorch_grad_cam_wrapper"
+version = "0.1"
+dependencies = [
+    "grad-cam",
+]
+
+[tool.setuptools]
+packages = ["pytorch_grad_cam_wrapper"]
